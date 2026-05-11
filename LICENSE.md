@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with advanced Obsidian for macOS Script | auto-sync + export to PDF, the #1 script. Includes auto-sync and export to PDF for a smoother experience.
 
 
 
